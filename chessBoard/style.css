@@ -18,45 +18,37 @@
 .block:nth-child(even){
   width:100%;
   background-color:#000;
-  border: 1px solid rgb(245, 9, 9);
 }
 
 .block2:nth-child(odd){
     width:100%;
     background-color:#000;
-    border: 1px solid rgb(245, 9, 9);
-  }
+    }
 
   .block3:nth-child(even){
     width:100%;
     background-color:#000;
-    border: 1px solid rgb(245, 9, 9);
-  }
+    }
   .block4:nth-child(odd){
     width:100%;
     background-color:#000;
-    border: 1px solid rgb(245, 9, 9);
-  }
+    }
   .block5:nth-child(even){
     width:100%;
     background-color:#000;
-    border: 1px solid rgb(245, 9, 9);
-  }
+    }
   .block6:nth-child(odd){
     width:100%;
     background-color:#000;
-    border: 1px solid rgb(245, 9, 9);
-  }
+    }
   .block7:nth-child(even){
     width:100%;
     background-color:#000;
-    border: 1px solid rgb(245, 9, 9);
-  }
+    }
   .block8:nth-child(odd){
     width:100%;
     background-color:#000;
-    border: 1px solid rgb(245, 9, 9);
-  }
+    }
 
 
 
