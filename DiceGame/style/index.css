@@ -107,7 +107,7 @@
 .board {
   display: flex;
   width: 100%;
-  height: 100%;
+  height: 80%;
 }
 
 
@@ -175,4 +175,23 @@
     opacity: 0.5;
     background: url("../images/winner.gif");
     z-index: 100;
+}
+
+.restart-btn{
+  margin: 2% 35%;
+  height: 40px;
+  width: 30%;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  color: #ffffff;
+  background: #ff4b2b;
+  border-radius: 5px;
+  padding: 0;
+  cursor: pointer;
+  transition: all 0.4s ease;
+}
+
+.restart-btn:hover {
+  background: linear-gradient(to right, #eb3349, #f45c43);
 }
