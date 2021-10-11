@@ -81,3 +81,8 @@ function checkIfWinnerExists() {
       .setAttribute("disabled", true);
   }
 }
+
+function restart(event) {
+  event.preventDefault();
+  window.location.reload();
+}
