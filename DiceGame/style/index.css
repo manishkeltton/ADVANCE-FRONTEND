@@ -24,7 +24,7 @@
 .form-container,
 .board-container {
   width: 50%;
-  height: 81vh;
+  height: 70vh;
   background: #ffffff;
   border-radius: 5px;
   position: relative;
@@ -102,16 +102,19 @@
     display: none
 }
 
+
+
 .board {
   display: flex;
   width: 100%;
-  height: 79%;
+  height: 100%;
 }
+
 
 .player1,
 .player2 {
   width: 50%;
-  height: 100%;
+  height: 70vh;
   border-radius: 5px;
   display: flex;
   flex-direction: column;
@@ -172,23 +175,4 @@
     opacity: 0.5;
     background: url("../images/winner.gif");
     z-index: 100;
-}
-
-.restart-btn{
-  margin: 2% 35%;
-  height: 40px;
-  width: 30%;
-  outline: none;
-  border: none;
-  font-size: 18px;
-  color: #ffffff;
-  background: #ff4b2b;
-  border-radius: 5px;
-  padding: 0;
-  cursor: pointer;
-  transition: all 0.4s ease;
-}
-
-.restart-btn:hover {
-  background: linear-gradient(to right, #eb3349, #f45c43);
 }

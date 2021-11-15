@@ -81,28 +81,3 @@ function checkIfWinnerExists() {
       .setAttribute("disabled", true);
   }
 }
-
-function reset(event) {
-  event.preventDefault();
-  window.location.reload();
-}
-
-function restart(event) {
-  event.preventDefault();
-  console.log("restart");
-  document.querySelectorAll(".dice img")[0].src = "../images/dice1.png";
-  document.querySelectorAll(".dice img")[1].src = "../images/dice1.png";
-  document.querySelectorAll(".score")[0].innerHTML = "0";
-  document.querySelectorAll(".score")[1].innerHTML = "0";
-  firstPlayerScore = 0;
-  secondPlayerScore = 0;
-  document.querySelector(".winner").style.display = "none";
-  document
-  .getElementById("player2")
-  .getElementsByTagName("input")[0]
-  .disabled = false;
-  document
-  .getElementById("player1")
-  .getElementsByTagName("input")[0]
-  .disabled = false;
-}
