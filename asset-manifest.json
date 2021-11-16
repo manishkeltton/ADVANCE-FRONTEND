@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nestedrouterdom/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/nestedrouterdom/static/js/main.b8ef93fa.chunk.js",
+    "main.js.map": "/nestedrouterdom/static/js/main.b8ef93fa.chunk.js.map",
+    "runtime-main.js": "/nestedrouterdom/static/js/runtime-main.413b1ada.js",
+    "runtime-main.js.map": "/nestedrouterdom/static/js/runtime-main.413b1ada.js.map",
+    "static/js/2.9df65d22.chunk.js": "/nestedrouterdom/static/js/2.9df65d22.chunk.js",
+    "static/js/2.9df65d22.chunk.js.map": "/nestedrouterdom/static/js/2.9df65d22.chunk.js.map",
+    "static/js/3.29f0061f.chunk.js": "/nestedrouterdom/static/js/3.29f0061f.chunk.js",
+    "static/js/3.29f0061f.chunk.js.map": "/nestedrouterdom/static/js/3.29f0061f.chunk.js.map",
+    "index.html": "/nestedrouterdom/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/nestedrouterdom/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9df65d22.chunk.js.LICENSE.txt": "/nestedrouterdom/static/js/2.9df65d22.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nestedrouterdom/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.413b1ada.js",
+    "static/js/2.9df65d22.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b8ef93fa.chunk.js"
+  ]
+}
